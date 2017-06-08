@@ -19,6 +19,8 @@
     "webpack": "^2.6.1"
   },
   "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
     "uuid": "^3.0.1"
   }
 }
